@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.wali_tech</groupId>
     <artifactId>wali-music</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>wali-music</name>
     <description>Demo project for Spring Boot</description>
     <properties>
